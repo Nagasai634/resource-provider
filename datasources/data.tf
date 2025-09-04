@@ -5,7 +5,7 @@ provider "google" {
 
 variable "image" {
     type = string
-    default = ""
+    default = "debian-11"
   
 }
 
